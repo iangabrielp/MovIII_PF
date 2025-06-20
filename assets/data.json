@@ -1,0 +1,359 @@
+{
+    "peliculas": [
+        {
+            "titulo": "El origen",
+            "anio": 2010,
+            "descripcion": "Un ladrón que roba secretos corporativos a través del uso de tecnología de sueños compartidos recibe la tarea inversa de implantar una idea en la mente de un CEO.",
+            "genero": [
+                "Acción",
+                "Ciencia ficción"
+            ],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt1375666/",
+                "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+                "image": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg"
+            },
+            "detalles": {
+                "duracion": "148 min",
+                "director": "Christopher Nolan",
+                "valoracion": 8.8
+            }
+        },
+        {
+            "titulo": "Matrix",
+            "anio": 1999,
+            "descripcion": "Un programador de computadoras llamado Neo descubre que su realidad es una simulación creada por máquinas y se une a un grupo rebelde para liberar a la humanidad.",
+            "genero": ["Ciencia ficción", "Acción"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0133093/",
+                "trailer": "https://www.youtube.com/watch?v=vKQi3bBA1y8",
+                "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+            },
+            "detalles": {
+                "duracion": "136 min",
+                "director": "Lana Wachowski, Lilly Wachowski",
+                "valoracion": 8.7
+            }
+        },
+        {
+            "titulo": "Interestelar",
+            "anio": 2014,
+            "descripcion": "Un grupo de exploradores espaciales viaja a través de un agujero de gusano en un intento de asegurar la supervivencia de la humanidad.",
+            "genero": ["Ciencia ficción", "Drama"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0816692/",
+                "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+                "image": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+            },
+            "detalles": {
+                "duracion": "169 min",
+                "director": "Christopher Nolan",
+                "valoracion": 8.7
+            }
+        },
+        {
+            "titulo": "El club de la pelea",
+            "anio": 1999,
+            "descripcion": "Un oficinista deprimido que sufre de insomnio se une a un fabricante de jabón imprudente y forman un club de pelea subterráneo que se convierte en algo mucho más.",
+            "genero": ["Drama", "Suspenso"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0137523/",
+                "trailer": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+                "image": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg"
+            },
+            "detalles": {
+                "duracion": "139 min",
+                "director": "David Fincher",
+                "valoracion": 8.8
+            }
+        },
+        {
+            "titulo": "Tiempos violentos",
+            "anio": 1994,
+            "descripcion": "Las vidas de dos sicarios, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.",
+            "genero": ["Crimen", "Drama"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0110912/",
+                "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+                "image": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg"
+            },
+            "detalles": {
+                "duracion": "154 min",
+                "director": "Quentin Tarantino",
+                "valoracion": 8.8
+            }
+        },
+        {
+            "titulo": "El padrino",
+            "anio": 1972,
+            "descripcion": "El patriarca envejecido de una dinastía criminal traslada el control de su imperio clandestino a su reacio hijo.",
+            "genero": ["Crimen", "Drama"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0068646/",
+                "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+                "image": "https://image.tmdb.org/t/p/w500/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg"
+            },
+            "detalles": {
+                "duracion": "175 min",
+                "director": "Francis Ford Coppola",
+                "valoracion": 9.2
+            }
+        },
+        {
+            "titulo": "Sueño de fuga",
+            "anio": 1994,
+            "descripcion": "Dos hombres encarcelados unen lazos durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común.",
+            "genero": ["Drama", "Crimen"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0111161/",
+                "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+                "image": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+            },
+            "detalles": {
+                "duracion": "142 min",
+                "director": "Frank Darabont",
+                "valoracion": 9.3
+            }
+        },
+        {
+            "titulo": "Forrest Gump",
+            "anio": 1994,
+            "descripcion": "La presidencia de Kennedy y Johnson, los eventos de Vietnam, Watergate y otros eventos históricos se desarrollan desde la perspectiva de un hombre de Alabama con un coeficiente intelectual bajo.",
+            "genero": ["Drama", "Comedia"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0109830/",
+                "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+                "image": "https://image.tmdb.org/t/p/w500/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg"
+            },
+            "detalles": {
+                "duracion": "142 min",
+                "director": "Robert Zemeckis",
+                "valoracion": 8.8
+            }
+        },
+        {
+            "titulo": "Batman: el caballero de la noche",
+            "anio": 2008,
+            "descripcion": "Cuando la amenaza conocida como el Joker causa estragos y caos en la gente de Gotham, Batman debe enfrentar uno de los mayores desafíos psicológicos y físicos para luchar contra la injusticia.",
+            "genero": ["Acción", "Crimen"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0468569/",
+                "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+                "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+            },
+            "detalles": {
+                "duracion": "152 min",
+                "director": "Christopher Nolan",
+                "valoracion": 10
+            }
+        },
+        {
+            "titulo": "La lista de Schindler",
+            "anio": 1993,
+            "descripcion": "En la Polonia ocupada por los nazis durante la Segunda Guerra Mundial, Oskar Schindler gradualmente se preocupa por su fuerza laboral judía después de presenciar su persecución por parte de los nazis.",
+            "genero": ["Drama", "Historia"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0108052/",
+                "trailer": "https://www.youtube.com/watch?v=gG22XNhtnoY",
+                "image": "https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg"
+            },
+            "detalles": {
+                "duracion": "195 min",
+                "director": "Steven Spielberg",
+                "valoracion": 9
+            }
+        },
+        {
+            "titulo": "El Señor de los Anillos: el retorno del Rey",
+            "anio": 2003,
+            "descripcion": "Gandalf y Aragorn lideran el Mundo de los Hombres contra el ejército de Sauron para desviar su atención de Frodo y Sam mientras se acercan al Monte del Destino con el Anillo Único.",
+            "genero": ["Fantasía", "Aventura"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0167260/",
+                "trailer": "https://www.youtube.com/watch?v=r5X-hFf6Bwo",
+                "image": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
+            },
+            "detalles": {
+                "duracion": "201 min",
+                "director": "Peter Jackson",
+                "valoracion": 10
+            }
+        },
+        {
+            "titulo": "Star Wars: Episode V: El imperio contraataca",
+            "anio": 1980,
+            "descripcion": "Después de que los rebeldes son brutalmente dominados por el Imperio en el planeta helado Hoth, Luke Skywalker comienza su entrenamiento Jedi con Yoda, mientras sus amigos son perseguidos por Darth Vader.",
+            "genero": ["Ciencia ficción", "Aventura"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0080684/",
+                "trailer": "https://www.youtube.com/watch?v=JNwNXF9Y6kY",
+                "image": "https://image.tmdb.org/t/p/w500/7BuH8itoSrLExs2YZSsM01Qk2no.jpg"
+            },
+            "detalles": {
+                "duracion": "124 min",
+                "director": "Irvin Kershner",
+                "valoracion": 8.7
+            }
+        },
+        {
+            "titulo": "El silencio de los inocentes",
+            "anio": 1991,
+            "descripcion": "Un joven cadete del FBI debe recibir la ayuda de un asesino caníbal encarcelado y manipulador para ayudar a atrapar a otro asesino en serie, un loco que despelleja a sus víctimas.",
+            "genero": ["Thriller", "Suspenso"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0102926/",
+                "trailer": "https://www.youtube.com/watch?v=W6Mm8Sbe__o",
+                "image": "https://image.tmdb.org/t/p/w500/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg"
+            },
+            "detalles": {
+                "duracion": "118 min",
+                "director": "Jonathan Demme",
+                "valoracion": 8.6
+            }
+        },
+        {
+            "titulo": "Se7en: los siete pecados capitales",
+            "anio": 1995,
+            "descripcion": "Dos detectives, un novato y un veterano, cazan a un asesino en serie que usa los siete pecados capitales como sus motivos.",
+            "genero": ["Crimen", "Thriller"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0114369/",
+                "trailer": "https://www.youtube.com/watch?v=znmZoVkCjpI",
+                "image": "https://image.tmdb.org/t/p/w500/6yoghtyTpznpBik8EngEmJskVUO.jpg"
+            },
+            "detalles": {
+                "duracion": "127 min",
+                "director": "David Fincher",
+                "valoracion": 8.6
+            }
+        },
+        {
+            "titulo": "Gladiator",
+            "anio": 2000,
+            "descripcion": "Un general romano es traicionado y su familia es asesinada por el corrupto hijo de un emperador. Se convierte en gladiador para vengar a su familia y al emperador destituido.",
+            "genero": ["Acción", "Drama"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0172495/",
+                "trailer": "https://www.youtube.com/watch?v=owK1qxDselE",
+                "image": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+            },
+            "detalles": {
+                "duracion": "155 min",
+                "director": "Ridley Scott",
+                "valoracion": 8.5
+            }
+        },
+        {
+            "titulo": "El gran truco",
+            "anio": 2006,
+            "descripcion": "Después de un trágico accidente, dos magos en el Londres de finales del siglo XIX se involucran en una batalla para crear la ilusión definitiva mientras sacrifican todo para superarse mutuamente.",
+            "genero": ["Drama", "Misterio"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0482571/",
+                "trailer": "https://www.youtube.com/watch?v=o4gHCmTQDVI",
+                "image": "https://image.tmdb.org/t/p/w500/5MXyQfz8xUP3dIFPTubhTsbFY6N.jpg"
+            },
+            "detalles": {
+                "duracion": "130 min",
+                "director": "Christopher Nolan",
+                "valoracion": 8.5
+            }
+        },
+        {
+            "titulo": "Amnesia",
+            "anio": 2000,
+            "descripcion": "Un hombre con pérdida de memoria a corto plazo intenta rastrear al asesino de su esposa mientras usa un sistema único de fotografías y tatuajes para recordar información vital.",
+            "genero": ["Thriller", "Misterio"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0209144/",
+                "trailer": "https://www.youtube.com/watch?v=0vS0E9bBSL0",
+                "image": "https://image.tmdb.org/t/p/w500/fQMSaP88cf1nz4qwuNEEFtazuDM.jpg"
+            },
+            "detalles": {
+                "duracion": "113 min",
+                "director": "Christopher Nolan",
+                "valoracion": 7.9
+            }
+        },
+        {
+            "titulo": "Los infiltrados",
+            "anio": 2006,
+            "descripcion": "Un policía encubierto y un topo en la policía intentan identificarse mutuamente mientras se infiltran en una banda irlandesa en Boston.",
+            "genero": ["Crimen", "Drama"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0407887/",
+                "trailer": "https://www.youtube.com/watch?v=auYbpnEwBBg",
+                "image": "https://image.tmdb.org/t/p/w500/tGLO9zw5ZtCeyyEWgbYGgsFxC6i.jpg"
+            },
+            "detalles": {
+                "duracion": "151 min",
+                "director": "Martin Scorsese",
+                "valoracion": 8.5
+            }
+        },
+        {
+            "titulo": "Whiplash: música y obsesión",
+            "anio": 2014,
+            "descripcion": "Un prometedor joven baterista se inscribe en un conservatorio de música prestigioso y sufre abusos psicológicos a manos de un despiadado instructor decidido a llevar a sus estudiantes a la grandeza.",
+            "genero": ["Drama", "Música"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt2582802/",
+                "trailer": "https://www.youtube.com/watch?v=7d_jQycdQGo",
+                "image": "https://image.tmdb.org/t/p/w500/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg"
+            },
+            "detalles": {
+                "duracion": "106 min",
+                "director": "Damien Chazelle",
+                "valoracion": 8.5
+            }
+        },
+        {
+            "titulo": "El rey león",
+            "anio": 1994,
+            "descripcion": "Un joven león príncipe huye de su reino solo para aprender el verdadero significado de responsabilidad y valentía.",
+            "genero": ["Animación", "Aventura"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0110357/",
+                "trailer": "https://www.youtube.com/watch?v=4sj1MT05lAA",
+                "image": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+            },
+            "detalles": {
+                "duracion": "88 min",
+                "director": "Roger Allers, Rob Minkoff",
+                "valoracion": 8.5
+            }
+        },
+        {
+            "titulo": "Milagros inesperados",
+            "anio": 1999,
+            "descripcion": "La vida de los guardias en el corredor de la muerte cambia después de que un prisionero con poderes misteriosos llega a su bloque.",
+            "genero": ["Drama", "Fantasía"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0120689/",
+                "trailer": "https://www.youtube.com/watch?v=Ki4haFrqSrw",
+                "image": "https://image.tmdb.org/t/p/w500/velWPhVMQeQKcxggNEU8YmIo52R.jpg"
+            },
+            "detalles": {
+                "duracion": "189 min",
+                "director": "Frank Darabont",
+                "valoracion": 8.6
+            }
+        },
+        {
+            "titulo": "Rescatando al soldado Ryan",
+            "anio": 1998,
+            "descripcion": "Después de la invasión de Normandía, un grupo de soldados estadounidenses va detrás de las líneas enemigas para recuperar a un paracaidista cuyo hermano ha muerto en combate.",
+            "genero": ["Guerra", "Drama"],
+            "enlaces": {
+                "url": "https://www.imdb.com/title/tt0120815/",
+                "trailer": "https://www.youtube.com/watch?v=RYID71hYHzg",
+                "image": "https://image.tmdb.org/t/p/w500/jXqtxY3ASeWAfKcVrlDnaK4cqBG.jpg"
+            },
+            "detalles": {
+                "duracion": "169 min",
+                "director": "Steven Spielberg",
+                "valoracion": 8.6
+            }
+        }
+    ]
+}
