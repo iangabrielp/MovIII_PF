@@ -233,7 +233,6 @@ class _RegisterScreenState extends State<RegisterScreen> {
   }
 }
 
-// ---------- FUNCIONES AUXILIARES ----------
 
 Future<void> abrirGaleria(Function cambiarImagen) async {
   final imagenSeleccionada = await ImagePicker().pickImage(
